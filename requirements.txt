@@ -1,0 +1,4 @@
+pygame
+tinytag
+Pillow
+sv_ttk
